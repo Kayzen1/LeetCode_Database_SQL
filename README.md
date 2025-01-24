@@ -1,5 +1,8 @@
 # LeetCode_Database_SQL
 
+## Intro
+This Repo aims to keep track of the LeetCode SQL question by topics
+
 ## Github Repo
 ```bash
 git init
